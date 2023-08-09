@@ -8,6 +8,6 @@ project_name: "appomni_dashboards"
 # }
 
 constant: CONNECTION_NAME{
-  value: "chronicle"
+  value: "chronicle_test"
   export: override_required
 }
